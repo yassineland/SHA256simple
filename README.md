@@ -7,5 +7,5 @@ A lightweight built-in .c file for SHA-256 hashing without external libraries.
 sha256_hex(ch, hash);
 ```
 
-# Astuce
+# Tip
 You can use the constant ```SHA256_HEX_SIZE``` instead of ```65```.
